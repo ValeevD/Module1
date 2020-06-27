@@ -36,6 +36,7 @@ public class Character : MonoBehaviour
     public Character enemy;//HW1 temporary solution:)
 
     // Start is called before the first frame update
+    //Commit from VSCode
     void Start()
     {
         animator = GetComponentInChildren<Animator>();

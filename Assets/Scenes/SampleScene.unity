@@ -3013,6 +3013,11 @@ PrefabInstance:
       propertyPath: enemy
       value: 
       objectReference: {fileID: 788447404}
+    - target: {fileID: 141842781104852185, guid: 9f6b6093c8242ac4bb871ec8bf4649c5,
+        type: 3}
+      propertyPath: distanceFromEnemy
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 737851862398705900, guid: 9f6b6093c8242ac4bb871ec8bf4649c5,
         type: 3}
       propertyPath: m_Name
