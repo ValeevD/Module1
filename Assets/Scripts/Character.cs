@@ -55,7 +55,7 @@ public class Character : MonoBehaviour
     void AttackEnemy()
     {
         //HW1+++
-        if(IsDead())
+        if(IsDead() || enemy.IsDead())
             return;
         //HW1---
         
